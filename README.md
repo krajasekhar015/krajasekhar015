@@ -23,7 +23,7 @@
 </div>
 
 <div id="profile-views" align="center">
-![](https://komarev.com/ghpvc/?username=krajasekhar015&style=flat&base=1000&&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=krajasekhar015&style=flat&color=blue" alt="profile-views"/>
 </div>
 
 ### 🚀 <span style="color: #5C6BC0;">About Me</span>
