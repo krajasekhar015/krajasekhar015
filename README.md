@@ -12,7 +12,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/krajasekhar015">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/krajasekhar015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -24,25 +24,25 @@
 
 ### 🚀 <span style="color: #5C6BC0;">About Me</span>
 
-I'm passionate about **DevOps**, **Cloud Computing**, and **Automation** 🌐. 
+I'm a dedicated learner with a passion for DevOps and cloud computing. I am eager to leverage my skills in automation, CI/CD pipelines, and cloud infrastructure to streamline processes and enhance team collaboration.
 
 ### 💻 <span style="color: #FFC107;">Skills & Tools</span>  
 
 🧑‍💻 Here’s what’s in my tech toolkit:
 
-#### 🔧 **Languages & Scripting**:
-- **Shell Scripting**  
-
-#### ☁️ **DevOps & Cloud Tools**:
-- **Docker** 🐳   
-- **Ansible**  
-- **Terraform**  
-- **AWS** (EC2, S3, RDS)  
-- **Linux** (RHEL)
+## 🛠️ Skills
+- **Cloud Technologies**: AWS (EC2, S3, RDS)
+- **Scripting**: Bash
+- **Configuration Management**: Ansible
+- **Version Control**: Git, GitHub
+- **Containerization**: Docker
+<!-- - **Monitoring Tools**: Prometheus, Grafana -->
 
 ### 💡 <span style="color: #F4511E;">What’s Next?</span>
 
-🔭 Exploring:  
+<!-- 🔭 Exploring:  -->
+
+## 🌱 Currently Learning
 - Advanced container orchestration with **Kubernetes** and **Helm**.  
 - Continuous learning in **Devops and Cloud**
 
