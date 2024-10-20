@@ -26,9 +26,9 @@
 
 I'm a dedicated learner with a passion for DevOps and cloud computing. I am eager to leverage my skills in automation, CI/CD pipelines, and cloud infrastructure to streamline processes and enhance team collaboration.
 
-### 💻 <span style="color: #FFC107;">Skills & Tools</span>  
+<!-- ### 💻 <span style="color: #FFC107;">Skills & Tools</span>   -->
 
-🧑‍💻 Here’s what’s in my tech toolkit:
+<!-- 🧑‍💻 Here’s what’s in my tech toolkit: -->
 
 ## 🛠️ Skills
 - **Cloud Technologies**: AWS (EC2, S3, RDS)
