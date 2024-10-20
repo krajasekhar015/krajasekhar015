@@ -1,7 +1,7 @@
 
 ## <span style="color: #4A90E2;">👋 Hi there! I'm Raja Sekhar</span>
 
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2NldDZjMGQ5MWgzNnJlcGtsbXBsYmFxb3NxMmxjenRsbHY4OWV3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krajasekhar015)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krajasekhar015)
