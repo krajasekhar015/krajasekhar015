@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/in/krajasekhar015">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krajasekhar015@gmail.com)
+  <a>
+    [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krajasekhar015@gmail.com)
+  </a>
   <a href="https://medium.com/@krajasekhar015">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
