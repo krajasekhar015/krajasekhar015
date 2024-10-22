@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.krajasekhar015" /> -->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Satisfy&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raja+Sekhar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Oleo+Script&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Raja+Sekhar!;" />
 </h1>
 
 <div id="header" align="center">
