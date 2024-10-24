@@ -48,6 +48,8 @@ I'm a dedicated learner with a passion for DevOps and cloud computing. I am eage
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajasekhar015&layout=compact&theme=vision-friendly-dark" />
 </div>
 
+<br></br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" /><br/><br/><br/>
 </div>
