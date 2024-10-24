@@ -42,3 +42,9 @@ I'm a dedicated learner with a passion for DevOps and cloud computing. I am eage
 - Advanced container orchestration with **Kubernetes** and **Helm**.  
 - Continuous learning in **Devops and Cloud**
 
+<h2> 🔥 Stats </h2>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=krajasekhar015&theme=dark&date_format=M%20j%5B%2C%20Y%5D" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajasekhar015&layout=compact&theme=vision-friendly-dark" />
+</div>
+
