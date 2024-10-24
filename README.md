@@ -54,4 +54,6 @@ I'm a dedicated learner with a passion for DevOps and cloud computing. I am eage
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" /><br/><br/><br/>
 </div>
 
-https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg
+<!-- https://raw.githubusercontent.com/krajasekhar015/krajasekhar015/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg -->
+
+![alt text](bottom.svg)
