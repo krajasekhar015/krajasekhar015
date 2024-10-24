@@ -49,7 +49,7 @@ I'm a dedicated learner with a passion for DevOps and cloud computing. I am eage
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" /><br/><br/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Thank+You!!;Have+a+wonderful+day" />
 </div>
 
 ![alt text](bottom.svg)
